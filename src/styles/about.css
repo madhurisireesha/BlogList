@@ -1,0 +1,9 @@
+.aboutcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: #551e53;
+}
