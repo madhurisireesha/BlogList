@@ -1,0 +1,9 @@
+.nopage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #12022f
+}
