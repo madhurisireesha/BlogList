@@ -1,0 +1,13 @@
+.headercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+.li{
+    padding:30px;
+}
+h1{
+    color:rgb(141, 22, 42);
+}
