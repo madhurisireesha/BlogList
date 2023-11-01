@@ -1,0 +1,14 @@
+.homecontainer{
+     padding-left: 15vw;
+     padding-right: 15vw;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pro{
+    height: 20vh;
+    width:10vw;
+}
